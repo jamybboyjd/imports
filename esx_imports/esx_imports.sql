@@ -79,7 +79,7 @@ CREATE TABLE `importedvehicles` (
 );
 
 INSERT INTO `importedvehicles` (name, model, price, category) VALUES
-	('slutan','slutan',15000,'import'),
-	('slutanrs','slutanrs',18000,'import'),
+	('sultan','sultan',15000,'import'),
+	('sultanrs','sultanrs',18000,'import'),
 	('Hustler', 'hustler', 625000, 'importtwo')
 ;
